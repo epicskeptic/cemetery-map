@@ -757,7 +757,7 @@ function fnc_project_color(values, context) {
 
 
 
-function exp_label_Burials_4_eval_expression(context) {
+function exp_label_Burials_2_eval_expression(context) {
     // concat(First_Name, ' ', Last_Name)
 
     var feature = context.feature;
@@ -770,7 +770,7 @@ function exp_label_Burials_4_eval_expression(context) {
 }
 
 
-function exp_label_Burials_4_eval_expression(context) {
+function exp_label_Burials_2_eval_expression(context) {
     // concat(First_Name, ' ', Last_Name)
 
     var feature = context.feature;
